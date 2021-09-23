@@ -1,4 +1,4 @@
-## **Fernanda Albuquerque**
+## **Fernanda Albre**
 
 ![giphy](https://user-images.githubusercontent.com/21248532/134420916-e702864b-33f7-4d40-8d4e-a41b4c679ab5.gif)
 
