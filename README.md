@@ -2,7 +2,7 @@
 
 ![giphy](https://user-images.githubusercontent.com/21248532/134420916-e702864b-33f7-4d40-8d4e-a41b4c679ab5.gif)
 
-### Olá! 👋 Esse é o meu portifólio!
+### Olá! 👋   Bem vindo ao meu universo!
 
 - 💬 Sou estudante de Sistemas de Informação pela Universidade Federal do Ceará.  
 - 🌱 Atualmente estou estudando desenvolvimento web, gestão de projetos e pessoas!
