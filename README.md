@@ -1,6 +1,6 @@
 ## **Fernanda Albre**
 
-<img src="books_library_shelves_138556_1366x768.jpg" height="200" width="1000"/>
+<img src="books_library_shelves_138556_1366x768.jpg" height="200" width="395"/>
 
 ### Olá! 👋   Bem vindo ao meu universo!
 
