@@ -1,7 +1,6 @@
 ## **Fernanda Albre**
 
-![Biblioteca](https://images.wallpaperscraft.com/image/single/books_library_shelves_138556_1366x768.jpg](https://github.com/fernandaalbre/fernandaalbre/blob/main/books_library_shelves_138556_1366x768.jpg)
-
+![Biblioteca](books_library_shelves_138556_1366x768.jpg)
 
 ### Olá! 👋   Bem vindo ao meu universo!
 
